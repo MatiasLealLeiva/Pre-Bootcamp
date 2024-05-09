@@ -1,0 +1,50 @@
+.silver {
+    background-color: silver;
+    width: 600px;
+    height: 300px;
+    border: solid 1px silver;
+    position: relative;
+    padding: 10px;
+}
+
+.green {
+    background-color: green;
+    width: 95%;
+    height: 75px;
+    border: 1px solid green;
+    margin: 10px;
+}
+
+.blue {
+    background-color: blue;
+    width: 15%;
+    height: 45%;
+    border: solid 1px blue;
+    margin: 10px;
+}
+
+.red {
+    background-color: red;
+    position: absolute;
+    width: 75%;
+    height: 200px;
+    right: 27px;
+    top: 33%;
+    padding: 3px;
+
+}
+
+.purple {
+    background-color: purple;
+    width: 90%;
+    height: 29%;
+    margin: 10px;
+}
+
+.yellow {
+    background-color: yellow;
+    display: inline-block;
+    width: 22%;
+    height: 90px;
+    margin: 2px;
+}
